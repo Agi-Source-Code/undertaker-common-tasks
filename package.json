@@ -1,0 +1,33 @@
+{
+  "name": "undertaker-common-tasks",
+  "version": "1.0.0",
+  "description": "Proof-of-concept custom registry that pre-defines tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "gulplog": "git://github.com/Agi-Source-Code/gulplog.git",
+    "undertaker-registry": "git://github.com/Agi-Source-Code/undertaker-registry.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agi-Source-Code/undertaker-common-tasks.git"
+  },
+  "keywords": [
+    "common",
+    "tasks",
+    "custom",
+    "registry",
+    "registry",
+    "tasks",
+    "undertaker",
+    "gulp"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agi-Source-Code/undertaker-common-tasks/issues"
+  },
+  "homepage": "https://github.com/Agi-Source-Code/undertaker-common-tasks#readme"
+}
